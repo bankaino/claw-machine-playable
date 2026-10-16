@@ -825,7 +825,6 @@ void main(){ vec4 c = texture(u_tex, v_uv); o = vec4(c.rgb * u_tint.rgb, c.a) * 
     const swing = clamp(-c.v / K.CLAW_V * 0.11, -0.12, 0.12) + 0.012 * Math.sin(t * 2.1) + (ST.cy && ST.cy.ph === 'close' ? 0.02 * Math.sin((GT - ST.cy.t0) * 60) : 0);
     const cs = Math.cos(swing), sn = Math.sin(swing), sw = (x, y) => [hx + (x - hx) * cs - (y - railY) * sn, railY + (x - hx) * sn + (y - railY) * cs];   // a point hanging below the rail point, rotated by the swing
     L.rrect(GL.x + 16 + shx, GL.y + 6 + shy, GL.w - 32, 24, 12, [0.86, 0.88, 0.90], [0.46, 0.48, 0.52]);
-    if (!busy && !over) L.solid(c.x - 4 + shx, palmY + 90 + shy, 8, LY.CAP_CY + 40 - (palmY + 90), [1, 1, 1], 0, 0, 0, 0.34);       // aim line
     const hT = G.tex('claw_head'), hw = 150, hh = hw * hT.h / hT.w, headTop = hy - hh + 22 - railY;                                   // head top relative to the rail point
     L.solid(hx - 3, railY, 6, headTop + hh * 0.06, [0.78, 0.80, 0.84], swing, 3, 0);
     const fT = G.tex('claw_finger'), fh = 140, fw = fh * fT.w / fT.h, knobY = headTop + 0.79 * hh, pv = [0.575 * fw, 0.06 * fh];

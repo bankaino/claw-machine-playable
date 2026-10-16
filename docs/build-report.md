@@ -6,7 +6,7 @@
 | unity | `unity.html` | 0.49 MB | 5 MB | yes |
 | ironsource | `ironsource.html` | 0.49 MB | 5 MB | yes |
 | mintegral | `mintegral.html` | 0.49 MB | 5 MB | yes |
-| google | `google.zip` | 0.33 MB | 5 MB | yes |
+| google | `google.zip` | 0.32 MB | 5 MB | yes |
 | meta | `meta.html` | 0.49 MB | 2 MB | yes |
 | preview | `preview.html` | 0.49 MB | 5 MB | yes |
 
