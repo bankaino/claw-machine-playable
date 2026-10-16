@@ -1,0 +1,4 @@
+Use case: the inside back wall of a claw machine window for a 2D mobile game ad (an empty stage the game draws on).
+Subject: the empty interior of a claw machine cabinet seen exactly straight-on: a warm golden-cream back wall with subtle vertical paneling and soft glossy gradient from lighter cream at the top to deeper orange-gold at the bottom, a soft warm light strip along the top edge, side walls fading to darker orange at the left and right edges, a clean flat floor shelf at the bottom. Nothing else inside: no claw, no cable, no balls, no capsules, no food, no reflections, no text.
+Composition: portrait 2:3, fills the whole canvas edge to edge, symmetric, soft vignette, quiet and uncluttered so objects read on top.
+Constraints: NO text, NO letters, NO logos, no frame, no border, no objects.

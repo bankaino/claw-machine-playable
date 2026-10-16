@@ -1,0 +1,4 @@
+Use case: tutorial hand for a mobile playable ad, shown over the game to demonstrate tapping and dragging.
+Subject: a single cartoon hand in a thick white glove (classic cartoon glove style, soft rounded fingers), seen from the front, the index finger extended pointing straight up and tilted very slightly to the left, the other three fingers curled into the palm, thumb resting on the side; a short dark-green sleeve cuff (#0F4A35) with a thin orange band at the bottom edge where the wrist ends. Glossy soft-3D vinyl render, soft studio light from the upper left, subtle blue-grey shading on the white so it reads on bright backgrounds, crisp specular highlight on the fingertip.
+Composition: one hand centred, filling about 85% of the canvas height, the fingertip near the top, plenty of margin on all sides, flat solid pure magenta #FF00FF background everywhere else.
+Constraints: exactly one hand, no arm beyond the cuff, no text, no logos, no shadows on the background.

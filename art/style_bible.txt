@@ -1,0 +1,5 @@
+STYLE BIBLE: modern glossy soft-3D mobile ad art (clay/vinyl toy render), chunky rounded forms, soft studio lighting with crisp specular highlights, rich appetising food, no outlines, no texture noise.
+Palette: deep forest green #0F4A35 / #08321F (machine body, background), vivid orange #FF7A1A (buttons, trim), tomato red #E8322B (accents), cream #FFF4E2 (lights, highlights), white #FFFFFF; warm golden glass interior #FFE7C2 to #FFC98A.
+Light: one soft key light from the upper left (10 o'clock), warm white, gentle green-tinted fill, soft contact shadows only, diagonal glass reflections on the machine window.
+Camera: straight-on front view of a vertical claw machine, objects seen from the front with a slight downward tilt, centred, symmetric.
+Fictional brand, no real logos, no real brand names, no text of any kind: every sign, label and price is a blank rounded bar. No watermark, no phone frame, no letters, no digits.

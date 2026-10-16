@@ -1,0 +1,65 @@
+{
+  "title": "Хрумка — автомат с обедом",
+  "store": {
+    "android": "https://play.google.com/store/apps/details?id=com.example.hrumka",
+    "ios": "https://apps.apple.com/app/id0000000000"
+  },
+  "textures": {
+    "machine_shell": [
+      1024,
+      "alpha"
+    ],
+    "glass_back": [
+      640,
+      "lossy"
+    ],
+    "burger": [
+      200,
+      "alpha"
+    ],
+    "fries": [
+      200,
+      "alpha"
+    ],
+    "cola": [
+      200,
+      "alpha"
+    ],
+    "nuggets": [
+      200,
+      "alpha"
+    ],
+    "claw_head": [
+      220,
+      "alpha"
+    ],
+    "claw_finger": [
+      300,
+      "alpha"
+    ],
+    "btn": [
+      300,
+      "alpha"
+    ],
+    "lever_knob": [
+      220,
+      "alpha"
+    ],
+    "lever_track": [
+      460,
+      "alpha"
+    ],
+    "hand": [
+      330,
+      "alpha"
+    ],
+    "combo_tray": [
+      900,
+      "alpha"
+    ],
+    "chute": [
+      420,
+      "alpha"
+    ]
+  }
+}
